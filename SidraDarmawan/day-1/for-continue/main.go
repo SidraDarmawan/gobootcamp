@@ -8,5 +8,8 @@ func main() {
 		sum += sum
 	}
 	fmt.Println(sum)
+ main
 
+
+main
 }
